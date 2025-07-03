@@ -1,1 +1,2 @@
-"# password-retry" 
+While loop練習
+輸入密碼檢查
